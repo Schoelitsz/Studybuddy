@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudyBuddy.Views.AccountPage">
+    <StackLayout Margin="5">
+
+        <StackLayout x:Name="UserInfoStackLayout" Margin="10" IsVisible="true" >
+            <Label Text="Profiel" TextColor="Black" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+            <!--<ListView x:Name="UserListView" HasUnevenRows="True" >
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                    <ViewCell Height="200">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="Naam"></Label>
+                            <Label Text="{Binding Naam}"/>
+                            <Label Text="EmailAdres"></Label>
+                            <Label Text="{Binding EmailAdres}"/>
+                            <Label Text="Opleiding"></Label>
+                            <Label Text="{Binding Opleiding }"/>
+                            <Label Text="Sterkepunt"></Label>
+                            <Label Text="{Binding Sterkepunt}"/>
+                            <Label Text="Zwakkepunt"></Label>
+                            <Label Text="{Binding Zwakkepunt}"/>
+                        </StackLayout>
+
+                    </ViewCell>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+            <Label Text="Naam"></Label>
+            <Label x:Name="UserNameLabel" FontSize="Medium"></Label>
+            <Label Text="E-mail"></Label>
+            <Label x:Name="UserEmailLabel" FontSize="Medium"></Label>
+            <Label Text="opleiding"></Label>
+            <Label x:Name="UserEducationLabel" FontSize="Medium"></Label>
+            <Label Text="Sterke punt"></Label>
+            <Label x:Name="UserStrongPointsLabel" FontSize="Medium"></Label>
+            <Label Text="Zwakke punt?"></Label>
+            <Label x:Name="UserWeakPointsLabel" FontSize="Medium"></Label>
+            <Button x:Name="EditBut" Text="Aanpassen" Clicked="EditBut_Clicked"></Button>
+        </StackLayout>
+        <StackLayout x:Name="UserInfoEditStackLayout" IsVisible="false">
+            <Label Text="Naam"></Label>
+            <Entry x:Name="UserNameEntry"  FontSize="Medium"></Entry>
+            <Label Text="opleiding"></Label>
+            <Entry x:Name="UserEducationEntry"  FontSize="Medium"></Entry>
+            <Label Text="Sterke punt"></Label>
+            <Entry x:Name="UserStrongPointsEntry"  FontSize="Medium"></Entry>
+            <Label Text="Zwakke punt?"></Label>
+            <Entry x:Name="UserWeakPointsEntry"  FontSize="Medium"></Entry>
+            <Button x:Name="SaveInfoBut" Text="Opslaan" Clicked="SaveInfoBut_Clicked"></Button>
+            <Button x:Name="CancelBut" Text="Annuleren" Clicked="CancelBut_Clicked"></Button>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

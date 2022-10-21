@@ -1,0 +1,348 @@
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\build-signature\signature
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\optimized\
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CopyComplete
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\build-signature\signature
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\optimized\
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CopyComplete
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\build-signature\signature
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\optimized\
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CopyComplete
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.SqlServer.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.CodeDom.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.SqlServer.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.CodeDom.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\build-signature\signature
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\optimized\
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CopyComplete
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.SqlServer.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\EntityFramework.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLiteNetExtensionsAsync.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLiteNetExtensionsAsync.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.CodeDom.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\bin\iPhone\Debug\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\optimized\
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.csproj.CopyComplete
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.exe
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\StudyBuddy.iOS.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy.iOS\obj\iPhone\Debug\build-signature\signature

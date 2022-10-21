@@ -1,0 +1,3 @@
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.Android\obj\Debug\90\build.props
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy.Android\obj\Debug\90\adb.props

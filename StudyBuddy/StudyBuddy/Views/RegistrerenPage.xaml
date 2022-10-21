@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudyBuddy.Views.RegisrerenPage">
+    <ScrollView>
+    <StackLayout Margin="10">
+            <Label Text="Registreren" TextColor="Black" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+        <Label Text="Naam"></Label>
+        <Entry x:Name="NaamEntry" Placeholder="Uw Naam"></Entry>
+        <Label Text="E-mail"></Label>
+        <Entry x:Name="emailEntry" Keyboard="Email" Placeholder="Uw E-mail"></Entry>
+        <Label Text="Wachtwoord"></Label>
+        <Entry x:Name="WachtwoordEntry"  Placeholder="Uw Wachtwoord"></Entry>
+        <Label Text="Bevestig wachtwoord"></Label>
+        <Entry x:Name="BevestigWachtwoordEntry"  Placeholder="Herhaal uw Wachtwoord"></Entry>
+        <Label Text="Opleiding"></Label>
+        <Entry x:Name="opleidingEntry"  Placeholder="Welke opleiding doet u?"></Entry>
+        <Label Text="Sterke punt"></Label>
+        <Entry x:Name="SterkePuntEntry"  Placeholder="Wat is uw Sterke punt?"></Entry>
+        <Label Text="Zwakke  punt"></Label>
+        <Entry x:Name="ZwakkePuntEntry"  Placeholder="Wat is uw Zwakke punt?"></Entry>
+            <Button x:Name="RegistrerenOpslanButton" Text="Registreren"  Clicked="RegistrerenOpslanButton_Clicked" CornerRadius="18"></Button>
+        <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
+            <Label Text="Heeft u al een account?" Margin="14,-6" ></Label>
+            <Label Text="Inloggen" HorizontalOptions="CenterAndExpand" Margin="-6" TextColor="Blue" TextDecorations="Underline">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped">  </TapGestureRecognizer>
+                </Label.GestureRecognizers>
+            </Label>
+        </Grid>
+    </StackLayout>
+    </ScrollView>
+
+</ContentPage>

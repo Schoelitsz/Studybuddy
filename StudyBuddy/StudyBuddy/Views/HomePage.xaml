@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:StudyBuddy.Views"
+             x:Class="StudyBuddy.HomePage">
+    
+    
+    <MasterDetailPage.Master>
+
+       
+
+        <ContentPage Title="Menu" BackgroundColor="White">
+
+            <StackLayout VerticalOptions="Center" BackgroundColor="White">
+                <Label x:Name="nameLabel" Text="Menu" FontSize="20" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+                <ListView x:Name="navigationList" Margin="0" SeparatorVisibility="Default" VerticalOptions="Start" ItemTapped="navigationList_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+                                    <Label Text="{Binding OptionName}" FontAttributes="Bold" FontSize="Default" Margin="10,0,5,2" 
+                                           HorizontalOptions="Start" VerticalOptions="Center"></Label>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+                </ListView>
+
+
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        
+        <NavigationPage>
+            <x:Arguments>
+                <local:GesprekPage></local:GesprekPage>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+   
+
+   
+    
+    
+    
+</MasterDetailPage>

@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudyBuddy.Views.LetstalkPage1">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Let's Talk"  TextColor="Black" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
+            <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="10,10,115,0" >
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Welcome Bij StudyBuddy! " FontSize="Medium"
+                VerticalOptions="Center" 
+                />
+                    </StackLayout>
+                </Frame>
+            <Frame x:Name="Fram2" IsVisible="false" BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1"  >
+                <Label x:Name="vraag1" Text="Hoe voel u vandaag? " FontSize="Medium"
+                VerticalOptions="Center" 
+                />
+            </Frame>
+            
+            <StackLayout x:Name="IconsStackLayout" IsVisible="false" Orientation="Horizontal" Margin="8" HorizontalOptions="CenterAndExpand" >
+                    <ImageButton x:Name="Prima" Clicked="Prima_Clicked" Source="Prima.png" WidthRequest="35" HeightRequest="30" ></ImageButton>
+                    <ImageButton x:Name="Goed" Clicked="Goed_Clicked" Source="Goed.png" WidthRequest="35" HeightRequest="30" ></ImageButton>
+                    <ImageButton x:Name="NietGoed" Clicked="NietGoed_Clicked" Source="NietGoed.png" WidthRequest="35" HeightRequest="30" ></ImageButton>
+                <ImageButton x:Name="Slecht" Clicked="Slecht_Clicked" Source="Slecht.png" WidthRequest="35" HeightRequest="30" ></ImageButton>
+            </StackLayout>
+
+            <ScrollView>
+            <StackLayout x:Name="PrimaStackLayout" IsVisible="false">
+                <StackLayout x:Name="Fram3" IsVisible="false" >
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label Text="Wow dat is Goed!" VerticalOptions="Center" FontSize="Medium"/>
+                    </Frame>
+                </StackLayout>
+                <StackLayout x:Name="Fram4" IsVisible="false">
+                <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                    <Label x:Name="vraag1Label" Text="Hoe komt dat?" FontSize="Medium" VerticalOptions="Center"/>
+                </Frame>
+                    <StackLayout Orientation="Horizontal">
+                            <Entry x:Name="PrimaAntwoordVraag1Entry" WidthRequest="300"></Entry>
+                        <ImageButton x:Name="PrimaAntwoordVraag1" Source="send.png" Clicked="PrimaAntwoordVraag1_Clicked" ></ImageButton>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="Fram5" IsVisible="false">
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                            <Label x:Name="vraag2Label" Text="Hoe komt dat1?" FontSize="Medium" VerticalOptions="Center"/>
+                    </Frame>
+                    <StackLayout Orientation="Horizontal">
+                            <Entry x:Name="PrimaAntwoordVraag2Entry" WidthRequest="300"></Entry>
+                        <ImageButton x:Name="PrimaAntwoordVraag2" Source="send.png" Clicked="PrimaAntwoordVraag2_Clicked" ></ImageButton>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="Fram6" IsVisible="false">
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                            <Label x:Name="vraag3Label" Text="Hoe komt dat2?" FontSize="Medium" VerticalOptions="Center"/>
+                    </Frame>
+                    <StackLayout Orientation="Horizontal">
+                            <Entry x:Name="PrimaAntwoordVraag3Entry"   WidthRequest="300"></Entry>
+                        <ImageButton x:Name="PrimaAntwoordVraag3" Source="send.png" Clicked="PrimaAntwoordVraag3_Clicked" ></ImageButton>
+                    </StackLayout>
+                </StackLayout>
+                <StackLayout x:Name="Fram7" IsVisible="false">
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                            <Label x:Name="vraag4Label" Text="Hoe komt dat3?" FontSize="Medium" VerticalOptions="Center"/>
+                    </Frame>
+                    <StackLayout Orientation="Horizontal">
+                            <Entry x:Name="PrimaAntwoordVraag4Entry" WidthRequest="300"></Entry>
+                        <ImageButton x:Name="PrimaAntwoordVraag4" Source="send.png" Clicked="PrimaAntwoordVraag4_Clicked"></ImageButton>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+            </ScrollView>
+
+            <StackLayout x:Name="slechtStackLayout" IsVisible="false">
+                <StackLayout x:Name="FramSlecht">
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label Text="OOh wat is niet goed!" FontSize="Medium" VerticalOptions="Center"/>
+                    </Frame>
+                </StackLayout>
+
+            </StackLayout>
+            
+            
+            <StackLayout x:Name="StackLayoutHelpen" IsVisible="false">
+                <StackLayout>
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label Text="Waar heeft u help nodig?" FontSize="Medium" VerticalOptions="Center"/>
+                    </Frame>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" Margin="10"  HorizontalOptions="Center">
+                    <Button x:Name="Stuidevragen" Clicked="Stuidevragen_Clicked" Text="Studie"  HorizontalOptions="Center" FontSize="9" WidthRequest="55" HeightRequest="25" CornerRadius="15"></Button>
+                    <Button x:Name="HumeurvragenBut" Clicked="HumeurvragenBut_Clicked" Text="Humeur" HorizontalOptions="Center"  FontSize="9" WidthRequest="65" HeightRequest="25" CornerRadius="15" ></Button>
+                    <Button x:Name="ConcentratievragenBut" Clicked="ConcentratievragenBut_Clicked" Text="concentreren" HorizontalOptions="Center"  FontSize="9"  HeightRequest="30" CornerRadius="15" ></Button>
+                    <Button x:Name="SlapenvragenBut" Clicked="SlapenvragenBut_Clicked" Text="Slapen"  HorizontalOptions="Center"  FontSize="9" WidthRequest="60" HeightRequest="25" CornerRadius="15"></Button>
+                </StackLayout>
+            </StackLayout>
+            
+            <ScrollView>
+                <StackLayout x:Name="VragenStackLayout" IsVisible="false">
+                    <ScrollView>
+                        <StackLayout x:Name="vraag1StackLayout" IsVisible="false">
+                            <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                                <Label x:Name="LabVraag1" VerticalOptions="Center" BackgroundColor="LightGray" FontSize="Medium" />
+                            </Frame>
+
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox x:Name="checboxkeuze1" IsChecked="False" Color="Red">
+                                </CheckBox>
+                                <Label x:Name="Labelkeuze1"   Margin="5"></Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox x:Name="checboxkeuze2"  IsChecked="False" Color="Red">
+                                </CheckBox>
+                                <Label x:Name="Labelkeuze2"  Margin="5"></Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox x:Name="checboxkeuze3" IsChecked="False" Color="Red">
+                                </CheckBox>
+                                <Label x:Name="Labelkeuze3"  Margin="5"></Label>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <CheckBox x:Name="checboxkeuze4" IsChecked="False" Color="Red">
+                                </CheckBox>
+                                <Label x:Name="Labelkeuze4"  Margin="5"></Label>
+                                <ImageButton x:Name="sendAntwoord1" Source="send.png" HorizontalOptions="EndAndExpand" Clicked="sendAntwoord1_Clicked"></ImageButton>
+                            </StackLayout>
+
+                        </StackLayout>
+                    </ScrollView>
+                    <ScrollView>
+                        <StackLayout x:Name="vraag2StackLayout" IsVisible="false">
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label x:Name="LabVraag2" VerticalOptions="Center" BackgroundColor="LightGray" FontSize="Medium"/>
+                    </Frame>
+
+                    <StackLayout Orientation="Horizontal">
+                        <CheckBox x:Name="checboxkeuze12" IsChecked="False" Color="Red">
+                        </CheckBox>
+                        <Label x:Name="Labelkeuze12" Margin="5"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <CheckBox x:Name="checboxkeuze22"  IsChecked="False" Color="Red">
+                        </CheckBox>
+                        <Label x:Name="Labelkeuze22"  Margin="5"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <CheckBox x:Name="checboxkeuze32" IsChecked="False" Color="Red">
+                        </CheckBox>
+                        <Label x:Name="Labelkeuze32" Margin="5"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <CheckBox x:Name="checboxkeuze42" IsChecked="False" Color="Red">
+                        </CheckBox>
+                        <Label x:Name="Labelkeuze42" Margin="5"></Label>
+                        <ImageButton x:Name="sendAntwoord2" Source="send.png" HorizontalOptions="EndAndExpand" Clicked="sendAntwoord2_Clicked"></ImageButton>
+                    </StackLayout>
+
+                </StackLayout>
+                    </ScrollView>
+                    <ScrollView>
+                        <StackLayout x:Name="vraag3StackLayout" IsVisible="false">
+                        <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                            <Label x:Name="LabVraag3" VerticalOptions="Center" BackgroundColor="LightGray" FontSize="Medium"/>
+                        </Frame>
+
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="checboxkeuze13" IsChecked="False" Color="Red">
+                            </CheckBox>
+                            <Label x:Name="Labelkeuze13" Margin="5"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="checboxkeuze23"  IsChecked="False" Color="Red">
+                            </CheckBox>
+                            <Label x:Name="Labelkeuze23"  Margin="5"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="checboxkeuze33" IsChecked="False" Color="Red">
+                            </CheckBox>
+                            <Label x:Name="Labelkeuze33" Margin="5"></Label>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="checboxkeuze43" IsChecked="False" Color="Red">
+                            </CheckBox>
+                            <Label x:Name="Labelkeuze43" Margin="5"></Label>
+                            <ImageButton x:Name="sendAntwoord3" Clicked="sendAntwoord3_Clicked" Source="send.png" HorizontalOptions="EndAndExpand"  ></ImageButton>
+                        </StackLayout>
+                            
+                        </StackLayout>
+                        
+
+                    </ScrollView>
+                   
+                </StackLayout>
+                    
+            </ScrollView>
+            <ScrollView>
+                <StackLayout x:Name="TipsStackLayout" IsVisible="false" HeightRequest="400" >
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label Text="Hieronder vind je paar tips!" FontSize="14"></Label>
+                    </Frame>
+                    <Frame BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label x:Name="tipsLabel" Margin="5" >
+                        </Label>
+                    </Frame>
+                    <Frame x:Name="linklabelFrame" IsVisible="false" BackgroundColor="LightGray" CornerRadius="300" Margin="20,5,115,-1">
+                        <Label x:Name="linklabel" Margin="5" FontSize="14" TextColor="Blue" TextDecorations="Underline"  >
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped">
+
+                                </TapGestureRecognizer>
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </Frame>
+                </StackLayout>
+
+            </ScrollView>
+
+        </StackLayout>
+        
+        
+        
+        
+        
+            </ScrollView>
+        
+        
+        
+        
+        
+        
+ 
+</ContentPage>

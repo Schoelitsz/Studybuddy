@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="clr-namespace:StudyBuddy.Model"
+             x:Class="StudyBuddy.Views.SOSPage">
+    <ContentPage.Content>
+        <StackLayout Margin="5">
+
+            <Label Text="Contact" TextColor="Black" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+            <Label x:Name="SLBNameLabel" Text="Boumans,RC(Rianne)" FontAttributes="Bold" FontSize="Medium"></Label>
+            <Label x:Name="SLBWorkLabel" Text="Docent ICT" FontSize="Medium"></Label>
+            <Grid RowSpacing="8">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="44"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="44"/>
+                </Grid.ColumnDefinitions>
+
+                <ImageButton x:Name="Phone" Source="Phone.png" Clicked="Phone_Clicked" WidthRequest="35" HeightRequest="30"  Grid.Row="0" VerticalOptions="Center" BackgroundColor="Transparent"/>
+                <Label Grid.Column="1" Grid.Row="0" VerticalOptions="Center" Text="+31454006857"/>
+                <ImageButton x:Name="Sms1" Source="sms.png" Clicked="Sms1_Clicked" WidthRequest="35" HeightRequest="30" Grid.Row="0" Grid.Column="2" VerticalOptions="Center" BackgroundColor="Transparent"/>
+                <ImageButton x:Name="Email1" Source="email.png" Clicked="Email1_Clicked" WidthRequest="20" HeightRequest="20"  Grid.Row="1"  VerticalOptions="Center" BackgroundColor="Transparent"/>
+                <Label Grid.Column="1" Grid.Row="1" VerticalOptions="Center" Text="rianne.boumans@zuyd.nl "/>
+                
+
+            </Grid>
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>

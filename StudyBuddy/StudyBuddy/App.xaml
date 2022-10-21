@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudyBuddy.App">
+    <Application.Resources>
+       
+        <ResourceDictionary>
+            <Style TargetType="Entry">
+                <Setter Property="FontSize" Value="12" ></Setter>
+            </Style>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="12"></Setter>
+                <Setter Property="TextColor" Value="Black"></Setter>
+            </Style>
+            <Style TargetType="NavigationPage">
+                <Setter Property="BarBackgroundColor" Value="red"></Setter>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Red" ></Setter>
+                <Setter Property="TextColor" Value="White" ></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <!--<Setter Property="CornerRadius" Value="18"></Setter>-->
+                
+
+
+            </Style>
+            <Style TargetType="Frame">
+                <!--<Setter Property="BackgroundColor" Value="Aqua"></Setter>
+                <Setter Property="CornerRadius" Value="300"> </Setter>
+                <Setter Property="Margin" Value="10,10,123,0"> </Setter>-->
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

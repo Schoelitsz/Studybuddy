@@ -1,0 +1,240 @@
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage.xaml.g.cs
+C:\Users\rohee\Downloads\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy1\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\roh\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\CategoreënPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\casus\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GespreksgeschiedenisPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\OpgeslagenTipsPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rohee\OneDrive\Desktop\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+D:\ICT 9-3-2019\Jaar2\Blok2\Blok2-jaar2\Casus1\studyBuddy3 Versie\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekResultaatPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.deps.json
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\bin\Debug\netstandard2.0\StudyBuddy.pdb
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csprojAssemblyReference.cache
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\AccountPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\FAQPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\GesprekResultaatPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\LetstalkPage1.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\RegistrerenPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\SOSPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\Views\WachtwoordVergetenPage.xaml.g.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfoInputs.cache
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.AssemblyInfo.cs
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.dll
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\ref\StudyBuddy.dll
+C:\Users\Clara Schoelitsz\source\repos\StudyBuddy\StudyBuddy\StudyBuddy\obj\Debug\netstandard2.0\StudyBuddy.pdb

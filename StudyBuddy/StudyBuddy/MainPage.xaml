@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             mc:Ignorable="d"
+             x:Class="StudyBuddy.MainPage">
+    <Grid BackgroundColor="#E5EBEE">
+        <Image Source="Background.jpg" Aspect="AspectFill"/>
+
+        <BoxView Opacity="0.3" BackgroundColor="Transparent"/>
+        <Grid HeightRequest="520" Margin="5">
+            <Path Fill="White" StrokeThickness="1" Aspect="Uniform" HorizontalOptions="Center"
+                 Data="M30.6,172.838V696.314L348.157,426.72Z" Opacity="0.5"/>
+            <Path Fill="White" StrokeThickness="1" Aspect="Uniform" HorizontalOptions="Center"
+                 Data="M30.6,172.838V650.665L320.465,404.581Z" Opacity="0.8"/>
+            <StackLayout Spacing="20" VerticalOptions="CenterAndExpand" Margin="40,0" >
+                <Label x:Name="errorLabel" TextColor="Red"></Label>
+                <Label Text="Inloggen" TextColor="Black" FontSize="20" FontAttributes="Bold"></Label>
+                <StackLayout Spacing="10">
+                    <Grid WidthRequest="190" Padding="10.0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
+                        <Entry x:Name="emailInput" Keyboard="Email" Placeholder="Geef uw email in" ></Entry>
+                    </Grid>
+                    <Grid WidthRequest="190" Padding="10.0" BackgroundColor="#F6F6F6" HorizontalOptions="Start">
+                        <Entry x:Name="wachtwoorInput" IsPassword="True" Placeholder="Geef uw wachtwoord in" ></Entry>
+                    </Grid>
+                </StackLayout>
+                <Button x:Name="inloggenBut" Text="inloggen" Clicked="inloggenBut_Clicked" CornerRadius="18" Margin="10,0,123,0" TextColor="White" BackgroundColor="Red"></Button>
+                <Label x:Name="wachtwoordLabel" Text="Wachtwoord vergeten?" TextColor="Blue" TextDecorations="Underline" Margin="5" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" ></TapGestureRecognizer>
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+            <StackLayout VerticalOptions="End" HorizontalOptions="End" Margin="0,0,0,30">
+                <Frame Padding="0" BackgroundColor="Transparent" BorderColor="White" HeightRequest="36"
+                       WidthRequest="150" CornerRadius="18" HorizontalOptions="End">
+                    <StackLayout Orientation="Horizontal" Spacing="10" VerticalOptions="Center" Margin="15,0">
+
+                        <Button x:Name="registrerenBut" Text="registreren"  Clicked="registrerenBut_Clicked" TextColor="Black" BackgroundColor="Transparent"></Button>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Grid>
+    </Grid>
+   
+</ContentPage>

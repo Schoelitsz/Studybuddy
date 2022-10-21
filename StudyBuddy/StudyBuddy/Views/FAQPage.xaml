@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StudyBuddy.Views.FAQPage">
+   
+        <StackLayout Margin="5">
+
+            <Label Text="FAQ" FontSize="Title" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+            <Label Text="Wat doet studybuddy? " FontSize="Subtitle" Margin="5" ></Label>
+            <Label Text="Studybuddy geeft jouw studietips aan de hand van wat je met je buddy bespreekt. Als je denkt meer hulp nodig te hebben, dan biedt studybuddy mogelijkheden om met andere te praten. " Margin="5" ></Label>
+            <Label Text="Hoe werkt het? " FontSize="Subtitle" Margin="5"></Label>
+            <Label Text="Je gaat een gesprek aan met studybuddy om te praten over waar je moeite mee hebt. Aan de hand van wat jij verteld, krijg je advies om je te helpen met je studie. Als wij denken dat het nodig is, kan het zijn dat iemand contact met je opneemt om je verder te helpen. Geen zorgen, je kan hier altijd nee tegen zeggen! Ook kan je zelf vragen om met iemand te praten.  " Margin="5" ></Label>
+            <Label Text=" Hoe zit het met mijn gegevens?" FontSize="Subtitle" Margin="5" ></Label>
+            <Label Text="De resultaten, waar je tips op gebaseerd zijn, staan in onze database. Je kan deze zelf bekijken, beheren en weer verwijderen als je het toch niet met ze eens bent " Margin="5" ></Label>
+           
+        </StackLayout>
+   
+</ContentPage>
